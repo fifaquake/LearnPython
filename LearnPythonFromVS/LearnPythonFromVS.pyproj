@@ -5,13 +5,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1f7214ca-3fd7-4c9e-9df0-cd45a64f163f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>LearnPythonFromVS.py</StartupFile>
+    <StartupFile>testPrint.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>LearnPythonFromVS</Name>
     <RootNamespace>LearnPythonFromVS</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -23,6 +24,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="LearnPythonFromVS.py" />
+    <Compile Include="testPrint.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>
