@@ -15,3 +15,6 @@ print(open('log.txt').read())
 # directly print to a file
 lg = open('log.txt', 'w')
 print(1,2,3, file = lg)
+
+# test git
+print('This is just used to test git')
