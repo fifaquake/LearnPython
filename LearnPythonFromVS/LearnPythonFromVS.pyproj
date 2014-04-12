@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1f7214ca-3fd7-4c9e-9df0-cd45a64f163f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>testNonlocal.py</StartupFile>
+    <StartupFile>PriorityQueue.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,8 +23,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="collections.py" />
     <Compile Include="famousdefect.py" />
     <Compile Include="LearnPythonFromVS.py" />
+    <Compile Include="PriorityQueue.py" />
     <Compile Include="scope.py" />
     <Compile Include="testNonlocal.py" />
     <Compile Include="testPrint.py" />
