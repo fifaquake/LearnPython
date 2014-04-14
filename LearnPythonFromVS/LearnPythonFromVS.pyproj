@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1f7214ca-3fd7-4c9e-9df0-cd45a64f163f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>0208.py</StartupFile>
+    <StartupFile>0213.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -35,6 +35,8 @@
     <Compile Include="0206.py" />
     <Compile Include="0207.py" />
     <Compile Include="0208.py" />
+    <Compile Include="0211.py" />
+    <Compile Include="0213.py" />
     <Compile Include="collections.py" />
     <Compile Include="famousdefect.py" />
     <Compile Include="LearnPythonFromVS.py" />
